@@ -2,6 +2,7 @@
 
 FROM THIS...
 | Apple | Bananas |         |         |         | Carrots |         |         | Dates |
-
+| :---: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :---: |
 TO THIS...
 | Apple | Bananas | Bananas | Bananas | Bananas | Carrots | Carrots | Carrots | Dates |
+| :---: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :---: |
